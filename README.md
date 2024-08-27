@@ -9,9 +9,6 @@ How to engage:
 There are four main files:
 
 Original paper can be found at: https://www.jstor.org/stable/2677930 
-
-Data sourced from: https://www.openicpsr.org/openicpsr/project/112564/version/V1/view?flag=follow&path=/openicpsr/112564/fcr:versions/V1/Acemoglu-Johnson-and-Robinson-datafiles&type=folder&pageSelected=0&pageSize=10&sortOrder=(?title)&sortAsc=true
-
+Data sourced from: http://doi.org/10.3886/E112564V1
 The primary Rmd file: Scheve_Stasavage_2010_replication.Rmd
-
 A short analysis: Scheve_Stasavage_2010_analysis.pdf
