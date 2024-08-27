@@ -8,7 +8,7 @@ How to engage:
 
 There are four main files:
 
-Original paper can be found at: https://www.jstor.org/stable/2677930 
-Data sourced from: http://doi.org/10.3886/E112564V1
-The primary Rmd file: Scheve_Stasavage_2010_replication.Rmd
+Original paper can be found at: https://www.jstor.org/stable/2677930 \
+Data sourced from: http://doi.org/10.3886/E112564V1 \\
+The primary Rmd file: Scheve_Stasavage_2010_replication.Rmd \
 A short analysis: Scheve_Stasavage_2010_analysis.pdf
