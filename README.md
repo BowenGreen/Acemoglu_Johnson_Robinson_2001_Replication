@@ -6,8 +6,9 @@ Overview: This is a quick repreduction of the main IV results I conducted for on
 
 How to engage:
 
-There are three main files:
+There are four main files:
 
-Data sourced from: https://isps.yale.edu/research/data/d062
+Original paper can be found at: https://www.jstor.org/stable/2677930
+Data sourced from: https://www.openicpsr.org/openicpsr/project/112564/version/V1/view?flag=follow&path=/openicpsr/112564/fcr:versions/V1/Acemoglu-Johnson-and-Robinson-datafiles&type=folder&pageSelected=0&pageSize=10&sortOrder=(?title)&sortAsc=true
 The primary Rmd file: Scheve_Stasavage_2010_replication.Rmd
 A short analysis: Scheve_Stasavage_2010_analysis.pdf
