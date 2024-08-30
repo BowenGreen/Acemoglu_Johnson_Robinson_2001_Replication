@@ -1,0 +1,41 @@
+```{r}
+rm(list=ls())
+library(rio)
+library(mice)
+library(jtools)
+library(tidyverse)
+library(broom)
+library(dplyr)
+library(ggplot2)
+library(estimatr)
+library(car)
+library(plm)
+library(foreign)
+library(nnet)
+library(lmtest)
+library(rms)
+library(AER)
+```
+
+```{r}
+gs <- import("ajr.dta")
+```
+
+```{r}
+model1 <- lm(loggdp ~ risk, data = gs)
+summary(model1)
+```
+```{r}
+model2 <- ivreg(loggdp ~ risk | logmort0, data = gs)
+summary(model2)
+```
+```{r}
+model3 <- ivreg(loggdp ~ risk + malaria | malaria + logmort0, data = gs)
+
+# Summarize results
+summary(model3)
+```
+```{r}
+model4 <- ivreg(loggdp ~ risk + latitude + rainmin + meantemp + malaria | malaria + latitude + rainmin + meantemp + logmort0, data = gs)
+summary(model4)
+```
