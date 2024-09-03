@@ -2,7 +2,7 @@
 
 Replication files for Daron Acemoglu, Simon Johnson and James A. Robinson's (2001) paper, "The Colonial Origins of Comparative Development: An Empirical Investigation. The American Economic Review," 91(5), 1369–1401. 
 
-Overview: This is a quick repreduction of the main IV results I conducted for one of my advanced linear models classes in graduate school. AJR's (2001) paper, The Colonial Origins of Comparative Development: An Empirical Investigation, utilized differences in European mortality rates as an instrument for current institutions to estimate the effect of institutions on economic performance, measured through income per capita. Markedly, the authors found that once the effect of institutions is controlled for, countries in Africa or those closer to the equator do not have lower incomes. I replicate the main findings of the AJR (2001) paper, finding that the authors correctly specify all regressions, and that their findings robust to alternative specifications.
+Overview: This is a quick repreduction of the main results I conducted for one of my advanced linear models classes in graduate school. AJR's (2001) paper, The Colonial Origins of Comparative Development: An Empirical Investigation, utilized differences in European mortality rates as an instrument for current institutions to estimate the effect of institutions on economic performance, measured through income per capita. The authors found that once the effect of institutions is controlled for, countries in Africa or those closer to the equator do not have lower incomes. I replicate the main IV results of the AJR (2001) paper, finding that the authors correctly specify all regressions, and that their findings robust to alternative specifications.
 
 How to engage:
 
