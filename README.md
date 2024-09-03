@@ -6,10 +6,10 @@ Overview: This is a quick repreduction of the main results I conducted for one o
 
 How to engage:
 
-There are four main files:
+There are five main files:
 
-Original paper can be found at: https://www.jstor.org/stable/2677930 \
-Data sourced from: http://doi.org/10.3886/E112564V1 \
-Data file: ajr.dta \
-The primary Rmd file: AJR.Rmd \
-A short analysis: AJR_Analysis.pdf 
+1. Original paper can be found at: https://www.jstor.org/stable/2677930 \
+2. Data sourced from: http://doi.org/10.3886/E112564V1 \
+3. Data file: ajr.dta \
+4. The primary Rmd file: AJR.Rmd \
+5. A short analysis: AJR_Analysis.pdf 
