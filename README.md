@@ -8,8 +8,8 @@ How to engage:
 
 There are five main files:
 
-1. Original paper can be found at: https://www.jstor.org/stable/2677930 \
-2. Data sourced from: http://doi.org/10.3886/E112564V1 \
-3. Data file: ajr.dta \
-4. The primary Rmd file: AJR.Rmd \
+1. Original paper can be found at: https://www.jstor.org/stable/2677930 
+2. Data sourced from: http://doi.org/10.3886/E112564V1 
+3. Data file: ajr.dta 
+4. The primary Rmd file: AJR.Rmd 
 5. A short analysis: AJR_Analysis.pdf 
